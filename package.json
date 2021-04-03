@@ -1,0 +1,19 @@
+{
+  "name": "rocky-mtn-clt",
+  "version": "1.0.0",
+  "description": "An informative website about the Abundance Community Land Trust",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earthlymeg/rocky-mtn-clt.git"
+  },
+  "author": "Meg Shulmister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earthlymeg/rocky-mtn-clt/issues"
+  },
+  "homepage": "https://github.com/earthlymeg/rocky-mtn-clt#readme"
+}
